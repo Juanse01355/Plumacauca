@@ -1,0 +1,38 @@
+/* ============================================
+   VARIABLES DE DISEÑO — PLUMACAUCA
+   ============================================ */
+
+:root {
+  /* Paleta de colores */
+  --color-black: #000000;
+  --color-white: #ffffff;
+  --color-primary: #6F5FBA;
+  --color-secondary: #B8B1DD;
+  --color-success: #62CC9C;
+  --color-text-body: #4A4A4A;
+  --color-text-heading: #36373F;
+
+  /* Estado de botones */
+  --btn-default: #503BB5;
+  --btn-hover: #A89FF9;
+  --btn-active: #4B31C4;
+
+  /* Tipografía */
+  --font-family: 'Open Sans', sans-serif;
+
+  /* Tamaños de tipografía (convertidos de pt a px) */
+  --fs-title: 43px;        /* 32pt */
+  --fs-subtitle-1: 32px;   /* 24pt */
+  --fs-subtitle-2: 27px;   /* 20pt */
+  --fs-button: 27px;       /* 20pt */
+  --fs-link-1: 27px;       /* 20pt */
+  --fs-body-2: 27px;       /* 20pt */
+  --fs-link-2: 20px;       /* 15pt */
+  --fs-body-1: 20px;       /* 15pt */
+  --fs-overline: 17px;     /* 13pt */
+
+  /* Pesos */
+  --fw-bold: 700;
+  --fw-semibold: 600;
+  --fw-regular: 400;
+}
